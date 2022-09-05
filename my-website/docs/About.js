@@ -5,7 +5,9 @@ export default function MyReactPage() {
   return (
     <Layout>
       <h1>About</h1>
-      <p>This is a React page</p>
+      <p>Welcome to Cosmos Documentaiton</p>
+
+
     </Layout>
   );
 }
