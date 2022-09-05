@@ -12,11 +12,9 @@ Cosmos, is a smart astronomy discord bot designed to give you the best informati
 
 For example, if we want to see the APOD (Astronomy Picture of the Day), we would fetch data from the latest APOD API. It is really simple way to do create a bot, although the lines of code to make this work is beyond insane.
 
-## Only h2 and h3 will be in the TOC by default.
+## Contributors
 
-You can configure the TOC heading levels either per-document or in the theme configuration.
-
-The headers are well-spaced so that the hierarchy is clear.
+These are the list of people who are actively contributing there knowledge to help create the documentation you are currentgly reading right now. Thanks to all of these people for helping out. Without you this would not be possible.
 
 - lists will help you
 - present the key points
