@@ -68,7 +68,6 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'About',
-            to: '/my-react-page', label: 'About', position: 'left'
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
