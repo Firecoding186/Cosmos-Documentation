@@ -71,8 +71,13 @@ const config = {
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
-            href: 'https://github.com/facebook/docusaurus',
+            href: 'https://github.com/Firecoding186/Cosmos-Documentation',
             label: 'GitHub',
+            position: 'right',
+          },
+          {
+            href: 'https://discord.gg/rBvMmTs9dK',
+            label: 'Discord',
             position: 'right',
           },
         ],
