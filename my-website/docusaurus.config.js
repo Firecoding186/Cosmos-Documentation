@@ -37,14 +37,14 @@ const config = {
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Firecoding186/Cosmos-Documentation',
         },
         blog: {
           showReadingTime: true,
           // Please change this to your repo.
           // Remove this to remove the "edit this page" links.
           editUrl:
-            'https://github.com/facebook/docusaurus/tree/main/packages/create-docusaurus/templates/shared/',
+            'https://github.com/Firecoding186/Cosmos-Documentation',
         },
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
@@ -68,6 +68,7 @@ const config = {
             docId: 'intro',
             position: 'left',
             label: 'About',
+            to: '/my-react-page', label: 'About', position: 'left'
           },
           {to: '/blog', label: 'Blog', position: 'left'},
           {
@@ -89,8 +90,8 @@ const config = {
             title: 'Docs',
             items: [
               {
-                label: 'Tutorial',
-                to: '/docs/intro',
+                label: 'About',
+                to: '/my-react-page',
               },
             ],
           },
