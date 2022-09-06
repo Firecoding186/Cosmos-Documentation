@@ -8,7 +8,7 @@ const FeatureList = [
     Svg: require('@site/static/img/undraw_docusaurus_mountain.svg').default,
     description: (
       <>
-        Cosmos was designed to be powerful offering a wide range of commands, but still easy
+        Cosmos was designed to be powerful offering a wide range of commands, but still easy to understand and Use
       </>
     ),
   },
