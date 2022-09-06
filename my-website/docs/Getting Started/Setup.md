@@ -1,10 +1,10 @@
 ---
+sidebar_position: 2
+sidebar_label: Setup
+sidebar_class_name: green
 description: Create a doc page with rich content.
 ---
-
-# Hello from Docusaurus
-
-Are you ready to create the documentation site for your open source project?
+Cosmos is a smart astronomy bot t simply fetches data from the APIs. Setting up Cosmos is real simple just like learning the Alphabet. We use discords Slash commands so you can call each command simply by using `/`
 
 ## Headers
 
