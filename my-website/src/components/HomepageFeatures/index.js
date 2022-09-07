@@ -22,12 +22,12 @@ const FeatureList = [
     ),
   },
   {
-    title: 'Powered by React',
-    img: require('@site/static/img/undraw_docusaurus_react.svg').default,
+    title: 'No Paywalls Guranteed',
+    img: require('@site/static/img/nopaywalls.png').default,
     description: (
       <>
-        Extend or customize your website layout by reusing React. Docusaurus can
-        be extended while reusing the same header and footer.
+        Most bots that are avalible on discord have paywalls. We ensure you that we have no hidden costs or absolutely no paywalls. 
+        You can sit back enjoy reading the information while we handle the work because 
       </>
     ),
   },
