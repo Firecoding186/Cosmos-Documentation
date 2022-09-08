@@ -5,7 +5,7 @@ import styles from './styles.module.css';
 const FeatureList = [
   {
     title: 'Easy to Use',
-    img: require('@site/static/img/Cosmoscmd.png').default,
+    img: require('@site/static/img/Cosmos.png').default,
     description: (
       <>
         Cosmos was designed to be powerful offering a wide range of commands, but still easy to understand and Use

@@ -6,24 +6,11 @@ description: Create a doc page with rich content.
 ---
 Cosmos is a smart astronomy bot t simply fetches data from the APIs. Setting up Cosmos is real simple just like learning the Alphabet. We use discords Slash commands so you can call each command simply by using `/`
 
-## Headers
+:::tip 
+You will need a [Discord](https://discord.com) account, [Cosmos](https://discord.com/oauth2/authorize?client_id=943033915600404512&permissions=52224&scope=applications.commands%20bot), discord bot and a server on discord.
+:::
+## Setting up
 
-will show up on the table of contents on the upper right
+Getting started you want to invite the bot to your server by navigating to Cosmos's website and clicking invite button on the tab shown below
 
-So that your users will know what this page is all about without scrolling down or even without reading too much.
-
-## Only h2 and h3 will be in the TOC by default.
-
-You can configure the TOC heading levels either per-document or in the theme configuration.
-
-The headers are well-spaced so that the hierarchy is clear.
-
-- lists will help you
-- present the key points
-- that you want your users to remember
-  - and you may nest them
-    - multiple times
-
-## Custom ID headers {#custom-id}
-
-With `{#custom-id}` syntax you can set your own header ID.
+ ![](@site/static/img/Cosmosweb.png)
